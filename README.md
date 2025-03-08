@@ -30,6 +30,6 @@
          )
 
 
-## Kaggle Note 자동완성 : 아래의 코드를 셀에 붙여 넣기후 실행 그리고 자동 완성은 Tab키로
+#### Kaggle Note 자동완성 : 아래의 코드를 셀에 붙여 넣기후 실행 그리고 자동 완성은 Tab키로
         %config Completer.use_jedi = False 
 
