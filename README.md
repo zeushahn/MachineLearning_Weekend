@@ -13,3 +13,5 @@
     berry_weight = [6.7, 7.5, 7.0, 9.7, 9.8, 8.7, 10.0, 9.9, 9.8, 12.2, 13.4, 12.2, 19.7, 19.9]
 
 
+#### Mushroom
+    https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/agaricus-lepiota.data
